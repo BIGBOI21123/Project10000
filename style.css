@@ -1,0 +1,41 @@
+.heading
+{
+    font-size: 26px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(76, 76, 76);
+    font-style: italic;
+    font-weight: bolder;
+    background-color: orange;
+}
+.note
+{
+    color: black;
+    font-size: 18px;
+    font-style: normal;
+}
+#stats
+{
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 162, 0);
+    line-height: 2;
+    color: rgb(77, 77, 77);
+    font-size: 18px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas
+{
+    border: 5px solid gray;
+    box-shadow: 5px 5px 5px rgb(76, 76, 76);
+    border-radius: 18px;
+}
